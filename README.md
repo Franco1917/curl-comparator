@@ -35,3 +35,8 @@ Ejemplo comparando dos endpoints:
 
 ```bash
 pip install requests
+
+
+
+USO : -python3 curl-comparator.py
+      -python curl-comparator.py
