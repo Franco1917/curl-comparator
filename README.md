@@ -10,7 +10,7 @@ Es ideal para **documentar migraciones de APIs** y validar que un endpoint antig
 
 Ejemplo comparando dos endpoints:
 
-![Comparador Visual](./Captura.png)
+<img width="1057" height="921" alt="Captura desde 2025-09-10 16-09-26" src="https://github.com/user-attachments/assets/9d418536-f16f-43bd-afbc-624b8e170e3f" />
 
 - **Panel izquierdo:** respuesta del endpoint antiguo  
 - **Panel derecho:** respuesta del endpoint nuevo  
